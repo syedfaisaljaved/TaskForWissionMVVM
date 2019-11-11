@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TaskForWissionMVVM</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone Number</string>
+    <string name="add">ADD</string>
+</resources>
